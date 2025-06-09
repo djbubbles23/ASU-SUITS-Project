@@ -135,9 +135,7 @@ PlayerSettings:
     16:9: 1
     Others: 1
   bundleVersion: 0.1
-  preloadedAssets:
-  - {fileID: 7224628315250573047, guid: 1a1ae3bfa8f8d1a48aa97262e50f46ea, type: 2}
-  - {fileID: -6952643247096552371, guid: 4fda3405aee435944846ad8e6bea1c5b, type: 2}
+  preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -628,11 +626,11 @@ PlayerSettings:
   m_MobileRenderingPath: 1
   metroPackageName: ASU-SUITS-Start
   metroPackageVersion: 1.0.0.0
-  metroCertificatePath: 
+  metroCertificatePath: C:\Users\djbub\OneDrive\Documents\GitHub\ASU-SUITS-Project\ASU-SUITS\Assets\WSATestCertificate.pfx
   metroCertificatePassword: 
-  metroCertificateSubject: 
-  metroCertificateIssuer: 
-  metroCertificateNotAfter: 0000000000000000
+  metroCertificateSubject: DefaultCompany
+  metroCertificateIssuer: DefaultCompany
+  metroCertificateNotAfter: 00c64c336ff8dc01
   metroApplicationDescription: Template_3D
   wsaImages: {}
   metroTileShortName: ASU-SUITS

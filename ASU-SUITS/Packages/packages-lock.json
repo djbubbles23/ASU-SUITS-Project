@@ -19,12 +19,6 @@
         "com.unity.render-pipelines.universal": "10.5.0"
       }
     },
-    "com.microsoft.azure.object-anchors.runtime": {
-      "version": "file:MixedReality/com.microsoft.azure.object-anchors.runtime-0.25.0.tgz",
-      "depth": 0,
-      "source": "local-tarball",
-      "dependencies": {}
-    },
     "com.microsoft.azure.remote-rendering": {
       "version": "file:MixedReality/com.microsoft.azure.remote-rendering-1.2.32.tgz",
       "depth": 0,
@@ -168,42 +162,6 @@
       "dependencies": {
         "com.unity.inputsystem": "1.4.4"
       }
-    },
-    "com.microsoft.mixedreality.wlt.asa": {
-      "version": "file:MixedReality/com.microsoft.mixedreality.wlt.asa-1.5.9.tgz",
-      "depth": 0,
-      "source": "local-tarball",
-      "dependencies": {
-        "com.microsoft.azure.spatial-anchors-sdk.core": "2.11.0",
-        "com.microsoft.mixedreality.worldlockingtools": "1.5.9"
-      }
-    },
-    "com.microsoft.mixedreality.wlt.asa.samples": {
-      "version": "file:MixedReality/com.microsoft.mixedreality.wlt.asa.samples-1.5.9.tgz",
-      "depth": 0,
-      "source": "local-tarball",
-      "dependencies": {
-        "com.microsoft.azure.spatial-anchors-sdk.core": "2.11.0",
-        "com.microsoft.mixedreality.toolkit.foundation": "2.7.0",
-        "com.microsoft.mixedreality.wlt.asa": "1.5.9",
-        "com.microsoft.mixedreality.worldlockingtools": "1.5.9",
-        "com.microsoft.mixedreality.worldlockingsamples": "1.5.9"
-      }
-    },
-    "com.microsoft.mixedreality.worldlockingsamples": {
-      "version": "file:MixedReality/com.microsoft.mixedreality.worldlockingsamples-1.5.9.tgz",
-      "depth": 0,
-      "source": "local-tarball",
-      "dependencies": {
-        "com.microsoft.mixedreality.toolkit.foundation": "2.7.0",
-        "com.microsoft.mixedreality.worldlockingtools": "1.5.9"
-      }
-    },
-    "com.microsoft.mixedreality.worldlockingtools": {
-      "version": "file:MixedReality/com.microsoft.mixedreality.worldlockingtools-1.5.9.tgz",
-      "depth": 0,
-      "source": "local-tarball",
-      "dependencies": {}
     },
     "com.microsoft.mrtk.graphicstools.unity": {
       "version": "file:MixedReality/com.microsoft.mrtk.graphicstools.unity-0.4.0.tgz",
